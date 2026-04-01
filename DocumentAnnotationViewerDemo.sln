@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DocumentAnnotationViewerDemo", "DocumentAnnotationViewerDemo\DocumentAnnotationViewerDemo.vbproj", "{836601ED-5C47-4F18-BEA6-33AB13B4D94F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "WinDemoHelperMethods", "WinDemoHelperMethods\WinDemoHelperMethods.vbproj", "{35B8CD0B-0253-4C5B-B5CA-6F0AC4E2DCCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{836601ED-5C47-4F18-BEA6-33AB13B4D94F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836601ED-5C47-4F18-BEA6-33AB13B4D94F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836601ED-5C47-4F18-BEA6-33AB13B4D94F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836601ED-5C47-4F18-BEA6-33AB13B4D94F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35B8CD0B-0253-4C5B-B5CA-6F0AC4E2DCCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35B8CD0B-0253-4C5B-B5CA-6F0AC4E2DCCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35B8CD0B-0253-4C5B-B5CA-6F0AC4E2DCCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35B8CD0B-0253-4C5B-B5CA-6F0AC4E2DCCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56B75032-12EC-42B4-B2B5-C64F8C37647F}
+	EndGlobalSection
+EndGlobal
